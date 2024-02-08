@@ -1,5 +1,14 @@
 archivo.txt
 archivo5.txt
 solucion1.txt
+archivo6.txt
 
 ignorar.txt
+
+archivo_no_subir.txt
+
+imagenes/
+
+*.txt
+*.py
+
